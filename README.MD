@@ -13,9 +13,6 @@ It can be found everywhere: in **data centers, phones, gaming consoles, cars, pl
 Operating systems built on the Linux kernel are called **Linux distributions**.  
 One of the most popular distributions is **Debian**, which is the focus of this project.  
 
-> *"But this wasn't to be just any penguin. Above all, Linus wanted one that looked happy, as if it had just polished off a pitcher of beer and then had the best sex of its life."*  
-> — *Just for Fun: The Story of an Accidental Revolutionary (Linus Torvalds, David Diamond)*  
-
 Through this project, you will:  
 - Discover **Debian Linux** and its role in servers.  
 - Understand **what lies beneath your programs** and the Cloud services you use every day.  
